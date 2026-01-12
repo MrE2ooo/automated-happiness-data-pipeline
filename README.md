@@ -1,5 +1,9 @@
-# World Happiness Data Pipeline 🌍📊
-
+Data Engineering Internship Project: World Happiness Data Pipeline
+Internship Context
+Position: Data Engineering Intern
+Organization: Yasmeen AI
+Affiliation: Syrian Community for Data Science and AI
+Parent Organization: Alrifai Consulting Group
 An automated ETL (Extract, Transform, Load) pipeline that orchestrates data flow from Kaggle to a Supabase PostgreSQL database using Prefect Cloud.
 
 ## 🚀 Overview
